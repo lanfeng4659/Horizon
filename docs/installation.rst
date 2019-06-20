@@ -2,7 +2,10 @@
 
 Installation
 ============
-Here, we detail the offline install process when it's too slow to install pytorch-nightly. You can download package and install it offline. `pytorch-nightly <https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw>`_.  密码:247j [hello](https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw/)
+Here, we detail the offline install process when it's too slow to install pytorch-nightly. You can download package and install it offline. `pytorch-nightly <https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw>`_.  密码:247j
+
+
+`spark-2.3.3-bin-hadoop2.7.tgz <https://pan.baidu.com/s/11lJjeKki-cnaxdZf8SHD7g>`_.  密码:335n
 
 Anaconda
 ^^^^^^^^
