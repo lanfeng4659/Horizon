@@ -2,7 +2,7 @@
 
 Installation
 ============
-Here, we detail the offline install process when it's too slow to install pytorch-nightly. You can download package and install it offline.`pytorch-nightly-1.2.0.dev20190620-py3.6_cuda10.0.130_cudnn7.5.1_0.tar.bz2 <https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw>`_.  密码:247j
+Here, we detail the offline install process when it's too slow to install pytorch-nightly. You can download package and install it offline.`pytorch-nightly <https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw>`_.  密码:247j
 
 Anaconda
 ^^^^^^^^
