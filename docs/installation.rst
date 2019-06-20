@@ -2,7 +2,7 @@
 
 Installation
 ============
-
+Here, we detail the offline install process when it's too slow to install pytorch
 Anaconda
 ^^^^^^^^
 
