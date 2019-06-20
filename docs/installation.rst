@@ -2,7 +2,7 @@
 
 Installation
 ============
-Here, we detail the offline install process when it's too slow to install pytorch-nightly. You can download package and install it offline. `pytorch-nightly <https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw/>`_.  密码:247j
+Here, we detail the offline install process when it's too slow to install pytorch-nightly. You can download package and install it offline. `pytorch-nightly <https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw>`_.  密码:247j [hello](https://pan.baidu.com/s/1TvdmmVHwiWv9PqS86ZscJw/)
 
 Anaconda
 ^^^^^^^^
